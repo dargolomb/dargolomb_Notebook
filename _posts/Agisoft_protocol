@@ -4,14 +4,14 @@
 
 **1\. Cutting Photos from Video**
 
-• Go to **File > Import > Video**.  
-• Choose a folder to save the extracted images.  
-• Trim the video to remove unnecessary parts by setting **Cut In** and **Cut Out**.  
+• Go to **File > Import > Video**.
+• Choose a folder to save the extracted images.
+• Trim the video to remove unnecessary parts by setting **Cut In** and **Cut Out**.
 • Set **Frame Step** to Large.
 
 **2\. Align the Photos** (This step also call Tie Points)
 
-• Go to **Workflow > Add Folder > Single > Add Photos**.  
+• Go to **Workflow > Add Folder > Single > Add Photos**.
 • Next, go to **Workflow > Align Photos**. (Accuracy: Moderate) Once the processing is complete, click the **Camera Icon** to proceed.
 
 **3.** **Move Region**
@@ -34,9 +34,9 @@ Manual cleaning – go to manual selection icon and select "free form", then sel
 
 • Go to **Workflow > Build Point Cloud**
 
-Quality: Medium  
-Click- save project after each step  
-Click- Calculate point confidence  
+Quality: Medium
+Click- save project after each step
+Click- Calculate point confidence
 Depth filtering: Mild
 
 (After this stage you can skip to stage 9 and build DEM- if you don’t need a nice 3D model)
@@ -75,7 +75,7 @@ After the processing is complete, click the small arrow next to the **Triangular
 **11\. Exporting Results**
 
 - Go to **File > Export > Export Orthomosaic**.
-- Choose **JPEG** (with **Tiff: None**).  
+- Choose **JPEG** (with **Tiff: None**).
     • **Export DEM**:
 - Go to **File > Export > Export DEM**.
 - Choose **Tiff**.
