@@ -47,7 +47,7 @@ Depth filtering: Mild
 
 (After this stage you can skip to stage 9 and build DEM- if you don’t need a nice 3D model)
 
-**7\. Building the 3D Model (**The "Build Model" - creating a 3D representation of your object, which includes both **dense cloud generation** and **mesh creation**)
+**7\. Building the 3D Model** (The "Build Model" - creating a 3D representation of your object, which includes both **dense cloud generation** and **mesh creation**)
 
 • Go to **Workflow > Build Model**.
 
