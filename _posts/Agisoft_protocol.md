@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: _post
 title: Agisoft Metashape: Video Photo Cutting and 3D Model Building
 tags: []
 ---
