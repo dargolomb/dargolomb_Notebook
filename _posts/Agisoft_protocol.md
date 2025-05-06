@@ -1,4 +1,10 @@
-**Agisoft Metashape: Video Photo Cutting and 3D Model Building**
+---
+layout: post
+title: Agisoft Metashape: Video Photo Cutting and 3D Model Building
+tags: []
+---
+
+### Agisoft Metashape: Video Photo Cutting and 3D Model Building
 
 (Recommended to save the project after each step)
 
