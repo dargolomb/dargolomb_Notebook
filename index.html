@@ -1,12 +1,19 @@
 ---
 layout: default
-title: Dar’s Open Lab Notebook
 ---
 
-<h1>Welcome to my Open Lab Notebook</h1>
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-<p>This notebook documents my work in marine biology, coral resilience,
-photogrammetry, and fieldwork in Costa Rica.</p>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-<p>Here you will find project logs, analyses, protocols, and updates from my PhD research.</p>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
 
