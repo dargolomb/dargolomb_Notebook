@@ -28,9 +28,26 @@ University of Haifa (2024–Present)
 
 ## Selected Publications
 
-* Golomb D. et al. (2020). *Coral carpets – a novel ecological engineering tool.* Ecological Engineering.
-* Winters G. et al. (2023). *Superior growth traits of invasive vs native seagrass populations.* Biological Invasions.
-* Hyams-Kaphzan O. et al. (2026). *Macroalgal dynamics shape epiphytic foraminiferal assemblages...* Marine Environmental Research.
+## Publications
+
+* **Coral carpets – a novel ecological engineering tool aimed at constructing coral communities on soft sand bottoms**
+  DOI: https://doi.org/10.1016/j.ecoleng.2020.105743
+
+* **Superior growth traits of invaded (Caribbean) versus native (Red Sea) populations of the seagrass *Halophila stipulacea***
+  DOI: https://doi.org/10.1007/s10530-023-03045-z
+
+* **Sea level rise can severely reduce biodiversity and community net production on rocky shores**
+  DOI: https://doi.org/10.1016/j.scitotenv.2021.148377
+
+* **Marine algal forests in the Levantine Basin**
+  DOI: Not available
+
+* **A mesocosm concept for the simulation of near-natural shallow underwater climates: The Kiel Outdoor Benthocosms (KOB)**
+  DOI: https://doi.org/10.1002/lom3.10055
+
+* **Macroalgal dynamics shape epiphytic foraminiferal assemblages in the eastern Mediterranean rocky reef**
+  DOI: https://doi.org/10.1016/j.marenvres.2026.107976
+
 
 ## Technical Skills
 
@@ -40,6 +57,5 @@ University of Haifa (2024–Present)
 
 ## Links
 
-* 📄 [Full CV](LINK_TO_PDF)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/dar-golomb-7a85029a/)
-* 🔬 [ResearchGate](https://www.researchgate.net/profile/Dar_Golomb)
+* 🔬 [ResearchGate](https://www.researchgate.net/profile/Dar-Golomb)
