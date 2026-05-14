@@ -114,25 +114,32 @@ Overall, the statistical analysis did not provide evidence for a significant tre
 
 This figure shows mean photophysiological response curves across the PAR gradient for each parameter in the matched algae dataset.
 
-![Figure 1](plots/Figure_1_Response_curves_matched_algae_only.png)
+<img width="3600" height="2400" alt="Figure_1_Response_curves_matched_algae_only" src="https://github.com/user-attachments/assets/d194d901-7ce9-4a17-a95b-479944e0d35b" /><img width="3600" height="2400" alt="Figure_5_AUC_boxplots_matched_algae_only" src="https://github.com/user-attachments/assets/94ad2d57-ccd9-4f0e-b191-1c9d5e2546c2" />
+<img width="4800" height="3600" alt="Figure_2_Response_curves_by_algae_matched_only" src="https://github.com/user-attachments/assets/d30a71d1-3b04-4d5c-9194-117d014b4447" />
+<img width="4800" height="3600" alt="Figure_2_Response_curves_by_algae_matched_only" src="https://github.com/user-attachments/assets/c4863821-b71b-41ef-9047-333a8b8c5ff8" />
+<img width="4800" height="3600" alt="Figure_2_Response_curves_by_algae_matched_only" src="https://github.com/user-attachments/assets/0283b42d-6c56-4607-b2bc-c14b3821ead4" />
+
 
 ### Figure 2. Response curves by algae identity
 
 This figure shows response curves separated by algae identity, allowing visual comparison of species-specific response patterns across the PAR gradient.
 
-![Figure 2](plots/Figure_2_Response_curves_by_algae_matched_only.png)
+<img width="4800" height="3600" alt="Figure_2_Response_curves_by_algae_matched_only" src="https://github.com/user-attachments/assets/426efa63-c4b7-4b17-bc6f-b715f24e93ff" />
+
 
 ### Figure 3. AUC comparison between light and dark treatments
 
 This figure shows the area under the curve comparison between light and dark treatments for each photophysiological parameter.
 
-![Figure 3](plots/Figure_5_AUC_boxplots_matched_algae_only.png)
+<img width="3600" height="2400" alt="Figure_5_AUC_boxplots_matched_algae_only" src="https://github.com/user-attachments/assets/e58c84b0-dc09-467c-b2a0-5bc1b41c4f9b" />
+
 
 ### Figure 4. AUC comparison by algae identity
 
 This figure shows AUC values separated by algae identity and photophysiological parameter.
 
-![Figure 4](plots/Figure_6_AUC_boxplots_by_algae_matched_only.png)
+<img width="4800" height="3600" alt="Figure_6_AUC_boxplots_by_algae_matched_only" src="https://github.com/user-attachments/assets/fd171b62-a079-4e1f-b4a8-7ba2cbaed2ea" />
+
 
 ---
 
