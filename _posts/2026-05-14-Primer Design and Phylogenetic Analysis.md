@@ -43,7 +43,8 @@ The NCBI Nucleotide database was used to retrieve rbcL sequences. The target seq
 | *Liagora ceranoides* | rbcL | JX878367.1 | partial cds; chloroplast | NCBI Nucleotide |
 
 Screenshot to add:
-![NCBI FASTA screenshot](screenshots/ncbi_fasta.png)
+
+<img width="1077" height="377" alt="Screenshot 2026-05-14 124343" src="https://github.com/user-attachments/assets/a31e681e-5d9d-4694-b073-c9bd4373cc95" />
 
 ---
 
@@ -62,7 +63,8 @@ Alignment settings:
 | Gene | rbcL |
 
 Screenshot to add:
-![Alignment screenshot](screenshots/mega_alignment.png)
+
+<img width="1296" height="363" alt="Screenshot 2026-05-14 124521" src="https://github.com/user-attachments/assets/1afd8859-8971-4706-a9c3-41c06cccac70" />
 
 ---
 
@@ -80,7 +82,8 @@ Primer3 selected the following primer pair:
 The selected primer pair amplifies a predicted 230 bp region of the rbcL gene. Both primers were 20 bp long, had similar melting temperatures, and had suitable GC contents.
 
 Screenshot to add:
-![Primer3 result](screenshots/primer3_result.png)
+
+<img width="1106" height="561" alt="Screenshot 2026-05-14 124704" src="https://github.com/user-attachments/assets/01524e62-d126-4205-86a8-6d49257839d1" />
 
 ---
 
@@ -101,7 +104,7 @@ Primer-BLAST summary:
 | Target organism | *Nemalion elminthoides* |
 
 Screenshot to add:
-![Primer-BLAST result](screenshots/primer_blast_result.png)
+<img width="1697" height="190" alt="Screenshot 2026-05-14 124943" src="https://github.com/user-attachments/assets/efeba762-220c-470a-9203-a253cb5d5caa" />
 
 ---
 
@@ -127,7 +130,7 @@ Tree construction parameters:
 
 ## Phylogenetic Tree Result
 
-![Nemalion rbcL phylogenetic tree](figures/Nemalion_rbcL_phylogenetic_tree_bootstrap.png)
+<img width="944" height="356" alt="Nemalion_rbcL_phylogenetic_tree_bootstrap" src="https://github.com/user-attachments/assets/545a30d7-f0ca-4bc8-b5fc-ffda74bfea14" />
 
 The phylogenetic tree separated the selected red algal taxa into two main supported groups. *Nemalion elminthoides* clustered with *Liagora ceranoides* with a bootstrap value of 100, indicating strong support for this relationship. *Actinotrichia fragilis* clustered with one *Actinotrichia robusta* sequence, also with a bootstrap value of 100. The second *Actinotrichia robusta* sequence appeared as a separate branch.
 
