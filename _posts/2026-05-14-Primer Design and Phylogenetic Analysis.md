@@ -43,6 +43,7 @@ The NCBI Nucleotide database was used to retrieve rbcL sequences. The target seq
 | *Liagora ceranoides* | rbcL | JX878367.1 | partial cds; chloroplast | NCBI Nucleotide |
 
 Screenshot to add:
+
 <img width="1077" height="377" alt="Screenshot 2026-05-14 124343" src="https://github.com/user-attachments/assets/a31e681e-5d9d-4694-b073-c9bd4373cc95" />
 
 ---
@@ -62,6 +63,7 @@ Alignment settings:
 | Gene | rbcL |
 
 Screenshot to add:
+
 <img width="1296" height="363" alt="Screenshot 2026-05-14 124521" src="https://github.com/user-attachments/assets/1afd8859-8971-4706-a9c3-41c06cccac70" />
 
 ---
@@ -80,6 +82,7 @@ Primer3 selected the following primer pair:
 The selected primer pair amplifies a predicted 230 bp region of the rbcL gene. Both primers were 20 bp long, had similar melting temperatures, and had suitable GC contents.
 
 Screenshot to add:
+
 <img width="1106" height="561" alt="Screenshot 2026-05-14 124704" src="https://github.com/user-attachments/assets/01524e62-d126-4205-86a8-6d49257839d1" />
 
 ---
