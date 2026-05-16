@@ -1,4 +1,4 @@
-<img width="3600" height="2400" alt="Figure_1_Response_curves_matched_algae_only" src="https://github.com/user-attachments/assets/454c18c7-41bc-4a92-bb22-4cc43688902c" />
+
 # Photophysiological Responses of Macroalgae Under Light and Dark Treatments
 
 **Author:** Dar Golomb  
