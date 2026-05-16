@@ -1,3 +1,4 @@
+<img width="3600" height="2400" alt="Figure_1_Response_curves_matched_algae_only" src="https://github.com/user-attachments/assets/454c18c7-41bc-4a92-bb22-4cc43688902c" />
 # Photophysiological Responses of Macroalgae Under Light and Dark Treatments
 
 **Author:** Dar Golomb  
@@ -114,25 +115,29 @@ Overall, the statistical analysis did not provide evidence for a significant tre
 
 This figure shows mean photophysiological response curves across the PAR gradient for each parameter in the matched algae dataset.
 
-![Figure 1](plots/Figure_1_Response_curves_matched_algae_only.png)
+<img width="3600" height="2400" alt="Figure_1_Response_curves_matched_algae_only" src="https://github.com/user-attachments/assets/906ce085-cbfd-4712-aefa-534eb678d3b0" />
+
 
 ### Figure 2. Response curves by algae identity
 
 This figure shows response curves separated by algae identity, allowing visual comparison of species-specific response patterns across the PAR gradient.
 
-![Figure 2](plots/Figure_2_Response_curves_by_algae_matched_only.png)
+<img width="4800" height="3600" alt="Figure_2_Response_curves_by_algae_matched_only" src="https://github.com/user-attachments/assets/10080830-b381-4e53-95ee-8579497b58b0" />
+
 
 ### Figure 3. AUC comparison between light and dark treatments
 
 This figure shows the area under the curve comparison between light and dark treatments for each photophysiological parameter.
 
-![Figure 3](plots/Figure_5_AUC_boxplots_matched_algae_only.png)
+<img width="3600" height="2400" alt="Figure_5_AUC_boxplots_matched_algae_only" src="https://github.com/user-attachments/assets/3a7b5e3a-e4c6-43a1-bd8e-b76c9fbb4b12" />
+
 
 ### Figure 4. AUC comparison by algae identity
 
 This figure shows AUC values separated by algae identity and photophysiological parameter.
 
-![Figure 4](plots/Figure_6_AUC_boxplots_by_algae_matched_only.png)
+<img width="4800" height="3600" alt="Figure_6_AUC_boxplots_by_algae_matched_only" src="https://github.com/user-attachments/assets/0905044b-0843-4367-b676-1d027b60c84f" />
+
 
 ---
 
