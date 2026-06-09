@@ -1,4 +1,4 @@
-<img width="1800" height="900" alt="fold_change_chart" src="https://github.com/user-attachments/assets/3ebd6ce0-360c-4d6b-a381-184942838464" />
+
 # Interpreting qPCR Data: The Delta-Delta Ct (ΔΔCt) Method
 
 ## What is qPCR Relative Quantification?
