@@ -1,3 +1,4 @@
+
 # Interpreting qPCR Data: The Delta-Delta Ct (ΔΔCt) Method
 
 ## What is qPCR Relative Quantification?
@@ -97,7 +98,8 @@ This means NGN expression **doubled** in the inhibitor treatment compared to the
 
 ## Results Graph
 
-![Fold Change Bar Chart](fold_change_chart.png)
+<img width="1800" height="900" alt="fold_change_chart" src="https://github.com/user-attachments/assets/6b3490df-a2db-472d-8ede-3e0f8ac6eb78" />
+
 
 *Green bars = upregulated (FC > 1) | Red bars = downregulated (FC < 1) | Dashed line = no change*
 
